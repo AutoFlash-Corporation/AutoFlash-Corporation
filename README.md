@@ -1,6 +1,6 @@
 # Autoflash
 
-**Autoflash** é um projeto inovador de TCC que utiliza Inteligência Artificial para facilitar o processo de aprendizado e memorização. Nossa aplicação transforma automaticamente textos, como resumos e artigos, em flashcards altamente eficientes, otimizados por um sistema de repetição espaçada inspirado no Anki.
+**Autoflash** é um projeto de TCC que utiliza Inteligência Artificial para facilitar o processo de aprendizado e memorização. Nossa aplicação transforma automaticamente textos, como resumos e artigos, em flashcards altamente eficientes, otimizados por um sistema de repetição espaçada inspirado no Anki.
 
 ## 🎯 Objetivo
 O Autoflash foi desenvolvido para automatizar a criação de flashcards a partir de textos, ajudando estudantes e profissionais a memorizarem informações de maneira mais eficaz e rápida. Nosso objetivo é simplificar o estudo e maximizar a retenção de conhecimento.
